@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sanika Gaikwad! 👋
 
-<!--
-**sanika1330/sanika1330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing MCA and interested in
+software development and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Python Programming
+- Software Development
+
+### 🚀 Projects
+
+- Blood Bank Management System
+- SS Blouse Boutique
+- Cake Shop
+
+### 🎯 Career Goal
+
+To become a skilled Software Developer
+and build practical real-world applications.
+
+### 🤝 Connect With Me
+
+- LinkedIn
+- LeetCode
